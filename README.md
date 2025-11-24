@@ -1,4 +1,4 @@
-# Mehran-Hatami# 💫 About Me:
+💫 About Me:
 Hi, I’m Mehran — a Front-End Developer passionate about building clean, responsive, and user-friendly web interfaces. Ever since I discovered the power of HTML and CSS, I’ve been fascinated by how a few lines of code can shape the way people interact with the web.<br>My core expertise lies in HTML, CSS, and JavaScript, and I use React to create scalable, dynamic applications that deliver smooth user experiences. I care deeply about writing code that is not only functional but also maintainable and easy to understand.<br>Attention to detail is my strength: from designing accessible forms and intuitive navigation to optimizing performance and page speed. I believe that a great interface should be both visually appealing and inclusive for all users.<br>Beyond coding, I’m always eager to learn, share knowledge, and contribute to open-source projects. For me, GitHub is more than just a code repository — it’s a space for collaboration, growth, and continuous improvement.
 
 
